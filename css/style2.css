@@ -17,7 +17,7 @@
 
 .tab {
     cursor: pointer;
-    padding: 10px;
+    padding: 10px 16px;
 }
 
 .tab-content {
